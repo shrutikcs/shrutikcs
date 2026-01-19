@@ -56,8 +56,8 @@ I focus on **performance optimization**, **type-safe architectures**, and **scal
 
 ## 📈 GitHub Stats
 
-![Shrutik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+![Shrutik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutikcs&show_icons=true&theme=dracula&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutikcs&layout=compact&theme=dracula&hide_border=true)
 
 ---
