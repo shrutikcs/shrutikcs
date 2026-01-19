@@ -34,17 +34,16 @@ I focus on **performance optimization**, **type-safe architectures**, and **scal
 
 ## 🚀 Featured Projects
 
-### 🔐 **[Real-Time Secured Chat](https://github.com/shrutikcs/ai-resume-analyser)**
-*Next.js, Elysia.js, Upstash Redis, Tailwind CSS*  
-- Fast, secure messaging with self-destructing chat rooms!
+## 🚀 Featured Projects
 
-### 🤖 **[AI-Powered Resume Analyzer](https://github.com/shrutikcs/realtime-private-chat)**
-*React, TypeScript, Puter.js, Tailwind CSS, Claude-3-Sonnet*  
-- Get instant AI feedback on your resume in seconds!
+<div align="center">
 
-### 📍 **[Real-Time Geo-location Tracking System](https://github.com/shrutikcs/real-time-tracker)**
-*Node.js, Express.js, Socket.IO, Leaflet.js*  
-- Live location sharing with real-time map updates!
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| **💬 Real-Time Chat** <br/> *Next.js • Elysia.js • Redis* <br/> Secure messaging with auto-deleting rooms | **🤖 AI Resume Analyzer** <br/> *React • TypeScript • Claude AI* <br/> Instant AI feedback on your resume | **📍 Geo Tracker** <br/> *Node.js • Socket.IO • Leaflet.js* <br/> Live location sharing on a map |
+| [![View](https://img.shields.io/badge/View_Project-000?style=for-the-badge)](https://github.com/shrutikcs/ai-resume-analyser) | [![View](https://img.shields.io/badge/View_Project-000?style=for-the-badge)](https://github.com/shrutikcs/realtime-private-chat) | [![View](https://img.shields.io/badge/View_Project-000?style=for-the-badge)](https://github.com/shrutikcs/real-time-tracker) |
+
+</div>
 
 ---
 
