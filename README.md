@@ -36,21 +36,15 @@ I focus on **performance optimization**, **type-safe architectures**, and **scal
 
 ### 🔐 **[Real-Time Secured Chat](https://github.com/shrutikcs/ai-resume-analyser)**
 *Next.js, Elysia.js, Upstash Redis, Tailwind CSS*  
-- Reduced message delivery latency by **90%** using real-time pub/sub architecture.  
-- Implemented TTL-based auto-expiration to ensure **100% data ephemerality**.  
-- Achieved **40% faster API responses** with type-safe endpoints using Elysia.js + Zod.
+- Fast, secure messaging with self-destructing chat rooms!
 
 ### 🤖 **[AI-Powered Resume Analyzer](https://github.com/shrutikcs/realtime-private-chat)**
 *React, TypeScript, Puter.js, Tailwind CSS, Claude-3-Sonnet*  
-- Delivered AI-powered resume feedback in **under 30 seconds**.  
-- Improved user task completion rates by **40%** with an intuitive multi-step UI.  
-- Built a **serverless backend** with Puter.js, reducing infra overhead by **90%**.
+- Get instant AI feedback on your resume in seconds!
 
 ### 📍 **[Real-Time Geo-location Tracking System](https://github.com/shrutikcs/real-time-tracker)**
 *Node.js, Express.js, Socket.IO, Leaflet.js*  
-- Managed **50+ concurrent clients** with sub-second latency using Socket.IO.  
-- Integrated Leaflet.js with Geo-location API for live coordinate plotting.  
-- Implemented event-driven session cleanup, eliminating **100% stale data**.
+- Live location sharing with real-time map updates!
 
 ---
 
