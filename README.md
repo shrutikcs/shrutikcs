@@ -33,22 +33,28 @@ I focus on **performance optimization**, **type-safe architectures**, and **scal
 ---
 ## 🚀 Featured Projects
 
-<div align="center">
-
+<div align="center" display="flex">
+<div>
+  
 ### 💬 Real-Time Chat
 **Secure messaging with self-destructing chat rooms**  
 *Next.js • Elysia.js • Upstash Redis • Tailwind CSS*  
 [![View Project](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/shrutikcs/ai-resume-analyser)
+</div>
 
+<div>
+  
 ### 🤖 AI Resume Analyzer  
 **Get instant AI feedback on your resume in seconds**  
 *React • TypeScript • Puter.js • Claude-3-Sonnet*  
 [![View Project](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/shrutikcs/realtime-private-chat)
-
+</div>
+<div>
 ### 📍 Real-Time Geo Tracker
 **Live location sharing with real-time map updates**  
 *Node.js • Socket.IO • Express.js • Leaflet.js*  
 [![View Project](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/shrutikcs/real-time-tracker)
+</div>
 
 </div>
 
