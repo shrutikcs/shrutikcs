@@ -36,10 +36,3 @@ I focus on **performance optimization**, **type-safe architectures**, and **scal
 |:---|:---|:---|
 | [![View](https://img.shields.io/badge/View_Project-000?style=for-the-badge)](https://github.com/shrutikcs/ai-resume-analyser) | [![View](https://img.shields.io/badge/View_Project-000?style=for-the-badge)](https://github.com/shrutikcs/realtime-private-chat) | [![View](https://img.shields.io/badge/View_Project-000?style=for-the-badge)](https://github.com/shrutikcs/real-time-tracker) |
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutikcs&layout=compact&theme=dracula&hide_border=true)
-
-</div>
