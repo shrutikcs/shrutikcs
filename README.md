@@ -34,19 +34,19 @@ I focus on **performance optimization**, **type-safe architectures**, and **scal
 
 ## 🚀 Featured Projects
 
-### 🔐 **[Real-Time Secured Chat](https://github.com/shruikcs/realtime-chat)**
+### 🔐 **[Real-Time Secured Chat](https://github.com/shrutikcs/ai-resume-analyser)**
 *Next.js, Elysia.js, Upstash Redis, Tailwind CSS*  
 - Reduced message delivery latency by **90%** using real-time pub/sub architecture.  
 - Implemented TTL-based auto-expiration to ensure **100% data ephemerality**.  
 - Achieved **40% faster API responses** with type-safe endpoints using Elysia.js + Zod.
 
-### 🤖 **[AI-Powered Resume Analyzer](https://github.com/shrutikcs/resume-analyzer)**
+### 🤖 **[AI-Powered Resume Analyzer](https://github.com/shrutikcs/realtime-private-chat)**
 *React, TypeScript, Puter.js, Tailwind CSS, Claude-3-Sonnet*  
 - Delivered AI-powered resume feedback in **under 30 seconds**.  
 - Improved user task completion rates by **40%** with an intuitive multi-step UI.  
 - Built a **serverless backend** with Puter.js, reducing infra overhead by **90%**.
 
-### 📍 **[Real-Time Geo-location Tracking System](https://github.com/shrutikcs/geo-tracker)**
+### 📍 **[Real-Time Geo-location Tracking System](https://github.com/shrutikcs/real-time-tracker)**
 *Node.js, Express.js, Socket.IO, Leaflet.js*  
 - Managed **50+ concurrent clients** with sub-second latency using Socket.IO.  
 - Integrated Leaflet.js with Geo-location API for live coordinate plotting.  
@@ -55,8 +55,6 @@ I focus on **performance optimization**, **type-safe architectures**, and **scal
 ---
 
 ## 📈 GitHub Stats
-
-![Shrutik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutikcs&show_icons=true&theme=dracula&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutikcs&layout=compact&theme=dracula&hide_border=true)
 
