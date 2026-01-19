@@ -31,17 +31,24 @@ I focus on **performance optimization**, **type-safe architectures**, and **scal
 ![Zod](https://img.shields.io/badge/-Zod-3068B7?style=flat)
 
 ---
-
-## 🚀 Featured Projects
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| **💬 Real-Time Chat** <br/> *Next.js • Elysia.js • Redis* <br/> Secure messaging with auto-deleting rooms | **🤖 AI Resume Analyzer** <br/> *React • TypeScript • Claude AI* <br/> Instant AI feedback on your resume | **📍 Geo Tracker** <br/> *Node.js • Socket.IO • Leaflet.js* <br/> Live location sharing on a map |
-| [![View](https://img.shields.io/badge/View_Project-000?style=for-the-badge)](https://github.com/shrutikcs/ai-resume-analyser) | [![View](https://img.shields.io/badge/View_Project-000?style=for-the-badge)](https://github.com/shrutikcs/realtime-private-chat) | [![View](https://img.shields.io/badge/View_Project-000?style=for-the-badge)](https://github.com/shrutikcs/real-time-tracker) |
+### 💬 Real-Time Chat
+**Secure messaging with self-destructing chat rooms**  
+*Next.js • Elysia.js • Upstash Redis • Tailwind CSS*  
+[![View Project](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/shrutikcs/ai-resume-analyser)
+
+### 🤖 AI Resume Analyzer  
+**Get instant AI feedback on your resume in seconds**  
+*React • TypeScript • Puter.js • Claude-3-Sonnet*  
+[![View Project](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/shrutikcs/realtime-private-chat)
+
+### 📍 Real-Time Geo Tracker
+**Live location sharing with real-time map updates**  
+*Node.js • Socket.IO • Express.js • Leaflet.js*  
+[![View Project](https://img.shields.io/badge/View_Project-000?style=for-the-badge&logo=github)](https://github.com/shrutikcs/real-time-tracker)
 
 </div>
 
@@ -49,6 +56,8 @@ I focus on **performance optimization**, **type-safe architectures**, and **scal
 
 ## 📈 GitHub Stats
 
+<div align="center">
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutikcs&layout=compact&theme=dracula&hide_border=true)
 
----
+</div>
