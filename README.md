@@ -8,7 +8,7 @@ I focus on **performance optimization**, **type-safe architectures**, and **scal
 ---
 
 ## 🛠️ Tech Stack
-Python · JavaScript · TypeScript · React · Next.js · Node.js · MongoDB · Redis · Docker · Git
+Python · JavaScript · TypeScript · React · Next.js · Node.js · MongoDB · Convex · Socket.io · Redis · Docker · Git
 
 ---
 ## 🚀 Featured Projects
