@@ -1,6 +1,6 @@
 #  Shrutik Meshram
 
-###  Full-Stack Developer | Real-Time Systems & Scalable Web Apps
+###  Software Developer | Real-Time Systems & Scalable Web Apps
 
 I'm a **B.Tech** from **NIT Karnataka** with a passion for building low-latency, real-time, and AI-integrated web applications.  
 I focus on **performance optimization**, **type-safe architectures**, and **scalable backend systems**.
