@@ -1,4 +1,4 @@
-#  Hi, I'm Shrutik Meshram
+#  Shrutik Meshram
 
 ###  Full-Stack Developer | Real-Time Systems & Scalable Web Apps
 
