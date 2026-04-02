@@ -1,7 +1,7 @@
 # Shrutik Meshram
 ### Backend Engineer · AI Systems · Real-Time Apps
 
-NIT Karnataka grad who builds production-grade backends, AI pipelines, and real-time systems.
+NIT Karnataka grad, went from stress analysis to building production-grade backends, AI pipelines, and real-time systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shrutik.space-000?style=flat&logo=vercel)](https://shrutik.space)
 
